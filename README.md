@@ -3,9 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kasiviswanath03&label=Profile%20views&color=0e75b6&style=flat" alt="kasiviswanath03" /> </p>
 
+- 📫 How to reach me **kkasiviswanathareddy@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1aerZwV3nmkg9FQi3wXhyIhM8_lB2UBNT/view?usp=drive_link](https://drive.google.com/file/d/1aerZwV3nmkg9FQi3wXhyIhM8_lB2UBNT/view?usp=drive_link)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kasi viswanatha reddy kanikireddygari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kasi viswanatha reddy kanikireddygari" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/kasi-viswanatha-reddy-kanikireddygari-29aab8221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kasi-viswanatha-reddy-kanikireddygari-29aab8221/" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/kasiviswanath00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/kasiviswanath00" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
