@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kasi-viswanatha-reddy-kanikireddygari-29aab8221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kasi-viswanatha-reddy-kanikireddygari-29aab8221/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/kasiviswanath00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/kasiviswanath00" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kasi-viswanatha-reddy-kanikireddygari-29aab8221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kasi-viswanatha-reddy-kanikireddygari-29aab8221/" height="30" width="40" /></a>
+<a href="https://kaggle.com/kasiviswanath00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/kasiviswanath00" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/kasiviswanath0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kasiviswanath0" height="30" width="40" /></a>
 </p>
 
