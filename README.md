@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **kkasiviswanathareddy@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1aerZwV3nmkg9FQi3wXhyIhM8_lB2UBNT/view?usp=drive_link](https://drive.google.com/file/d/1aerZwV3nmkg9FQi3wXhyIhM8_lB2UBNT/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1aerZwV3nmkg9FQi3wXhyIhM8_lB2UBNT/view?usp=drive_link](https://drive.google.com/file/d/1Eq3eG8TvgtLg2kQV2N4iKjCugKA-N2FQ/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
